@@ -17,4 +17,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
