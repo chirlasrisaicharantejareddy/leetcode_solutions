@@ -29,4 +29,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
