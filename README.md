@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
