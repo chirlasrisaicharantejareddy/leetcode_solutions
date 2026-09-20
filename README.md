@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3833-count-dominant-indices](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3833-count-dominant-indices/) | Easy |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
