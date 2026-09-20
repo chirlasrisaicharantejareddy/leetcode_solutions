@@ -54,6 +54,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3827-count-monobit-integers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3827-count-monobit-integers/) | Easy |
 | [3833-count-dominant-indices](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3833-count-dominant-indices/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3827-count-monobit-integers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3827-count-monobit-integers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
