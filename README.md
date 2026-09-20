@@ -9,6 +9,7 @@
 | [3833-count-dominant-indices](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3833-count-dominant-indices/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
