@@ -40,6 +40,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
@@ -56,6 +57,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -68,5 +70,10 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
