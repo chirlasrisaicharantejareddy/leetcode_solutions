@@ -88,5 +88,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1789-primary-department-for-each-employee](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
