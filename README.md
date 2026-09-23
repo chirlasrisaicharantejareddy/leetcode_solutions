@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -50,6 +51,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
