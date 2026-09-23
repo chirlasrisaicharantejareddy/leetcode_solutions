@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
