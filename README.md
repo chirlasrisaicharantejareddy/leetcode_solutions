@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -52,6 +53,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -60,6 +62,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
