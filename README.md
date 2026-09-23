@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -67,6 +68,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -79,6 +81,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
