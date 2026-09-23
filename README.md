@@ -14,6 +14,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Dynamic Programming
@@ -111,4 +113,8 @@
 | ------- | ------- |
 | [1789-primary-department-for-each-employee](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 <!---LeetCode Topics End-->
