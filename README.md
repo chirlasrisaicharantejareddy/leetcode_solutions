@@ -13,6 +13,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -77,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -130,4 +133,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 <!---LeetCode Topics End-->
