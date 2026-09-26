@@ -58,6 +58,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1678-goal-parser-interpretation](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
