@@ -47,6 +47,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
