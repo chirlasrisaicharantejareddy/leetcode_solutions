@@ -13,6 +13,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3046-split-the-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3046-split-the-array/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -101,6 +102,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3046-split-the-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3046-split-the-array/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -127,6 +129,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3046-split-the-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3046-split-the-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
