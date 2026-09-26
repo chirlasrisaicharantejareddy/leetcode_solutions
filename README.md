@@ -13,6 +13,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -93,6 +95,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3945-digit-frequency-score](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3945-digit-frequency-score/) | Easy |
