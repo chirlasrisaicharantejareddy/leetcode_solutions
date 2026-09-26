@@ -13,6 +13,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3046-split-the-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3046-split-the-array/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -43,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Math
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -142,5 +145,6 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 <!---LeetCode Topics End-->
