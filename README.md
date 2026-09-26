@@ -16,6 +16,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3046-split-the-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3046-split-the-array/) | Easy |
+| [3131-find-the-integer-added-to-array-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
