@@ -45,6 +45,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -75,6 +76,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -102,6 +104,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -126,6 +129,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
