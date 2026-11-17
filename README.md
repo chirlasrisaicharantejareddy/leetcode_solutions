@@ -36,6 +36,7 @@
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3945-digit-frequency-score](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3945-digit-frequency-score/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +151,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3046-split-the-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3046-split-the-array/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +166,9 @@
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
