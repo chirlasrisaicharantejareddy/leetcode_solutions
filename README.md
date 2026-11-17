@@ -10,6 +10,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -44,11 +45,13 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
