@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1528-shuffle-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
+| [1528-shuffle-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
