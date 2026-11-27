@@ -99,12 +99,14 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3360-stone-removal-game/) | Easy |
@@ -180,4 +182,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
