@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1528-shuffle-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -198,4 +200,8 @@
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
