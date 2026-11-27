@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0844-backspace-string-compare](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Binary Search
@@ -52,6 +53,7 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
@@ -67,6 +69,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3099-harshad-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3099-harshad-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
