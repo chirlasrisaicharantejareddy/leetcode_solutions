@@ -71,6 +71,7 @@
 | [3099-harshad-number](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3099-harshad-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3360-stone-removal-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3360-stone-removal-game/) | Easy |
@@ -103,6 +104,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
