@@ -96,6 +96,7 @@
 | [1528-shuffle-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -128,6 +129,7 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -160,6 +162,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
