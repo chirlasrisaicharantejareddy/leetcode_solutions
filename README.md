@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0844-backspace-string-compare](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0844-backspace-string-compare](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1528-shuffle-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -105,6 +107,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -185,5 +188,6 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/chirlasrisaicharantejareddy/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
